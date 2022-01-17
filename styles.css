@@ -1,0 +1,50 @@
+html {
+  background-color: #2e2e2e;
+}
+
+body {
+  color: #d6d6d6;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+h1,
+h3 {
+  text-align: center;
+}
+
+h1 {
+  color: #b05279;
+}
+h3 {
+  color: #e5b567;
+}
+
+a {
+  color: #6c99bb;
+}
+
+ul {
+  font-weight: 700;
+}
+
+strong {
+  color: #9e86c8;
+}
+
+em {
+  color: #b4d273;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.home {
+  color: #6c99bb;
+}
+
+.source { text-align: right; }
+.source strong { color: #797979; }
+.source strong a { color: #e87d3e; }
