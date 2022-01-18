@@ -23,5 +23,5 @@ based the fonts and colours on my terminal.
 ### Left to do...
 - [x] Finish assignment requirements
 - [x] Apply CSS Foundations
-- [] Apply CSS box model to centre content
-- [] OPTIONAL: try Flexbox
+- [ ] Apply CSS box model to centre content
+- [ ] OPTIONAL: try Flexbox
